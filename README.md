@@ -1,0 +1,2 @@
+# wfMailBotPublic
+ PE mail bot
